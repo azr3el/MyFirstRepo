@@ -1,0 +1,9 @@
+this is a st0ry bout some apostrophos
+linus torvalds
+
+new txt result
+
+commit changes
+
+git remote add origin https://github.com/azr3el/MyFirstRepo.git
+git push -u origin master
